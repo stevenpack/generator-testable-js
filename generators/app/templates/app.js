@@ -1,3 +1,4 @@
+"use strict";
 class App {
   hello() {
     return "hello";
